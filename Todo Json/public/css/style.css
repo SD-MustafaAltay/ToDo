@@ -1,0 +1,41 @@
+#headercontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: flex-end;
+}
+.shadow {
+  -webkit-box-shadow: -5px -4px 18px 3px rgba(83, 125, 73, 1);
+  -moz-box-shadow: -5px -4px 18px 3px rgba(83, 125, 73, 1);
+  box-shadow: -5px -4px 18px 3px rgba(83, 125, 73, 1);
+
+}
+body{
+  background-size:cover;
+  
+  background-image:url("https://wallpaperaccess.com/full/1489345.jpg");
+}
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+
+}
+.slm{
+  margin-right: 10px;
+}
+.foto{
+  width:100px;
+}
+.ssss{
+  height: 100px;
+  width: 490px;
+}
+.yazi{
+  color: white;
+}
+.abc{
+  height: 100px;
+  width: 70px;
+
+}
